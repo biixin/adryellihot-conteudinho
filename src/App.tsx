@@ -316,9 +316,10 @@ function App() {
                     <time className="ml-auto text-gray-400 text-xs">{post.time}</time>
                   </header>
                   {post.type === 'video' ? (
-                    <LazyVideo src={`https://filesjon.zapsafe.work/loira/videos/${post.num}.mp4`} />
+                    <LazyVideo src={`https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=adry-${post.num}.mp4&version_id=null`} />
+                  
                   ) : (
-                    <LazyImage src={`https://filesjon.zapsafe.work/loira/fotos/${post.num}.jpg`} alt="" />
+                    <LazyImage src={`https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=adry-${post.num}.jpeg&version_id=null`} alt="" />
                   )}
                 </article>
               ))}
