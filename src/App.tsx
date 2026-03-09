@@ -205,14 +205,15 @@ function App() {
               </article>
 
               {[
-                { type: 'image', num: 1, time: '23 de jan, 21:35' },
-                { type: 'video', num: 2, time: '23 de jan, 21:34' },
-                { type: 'image', num: 3, time: '23 de jan, 15:40' },
+                { type: 'image', num: 0, time: '23 de jan, 21:35' },
+                { type: 'video', num: 1, time: '23 de jan, 21:35' },
+                { type: 'image', num: 2, time: '23 de jan, 21:34' },
+                { type: 'video', num: 3, time: '23 de jan, 15:40' },
                 { type: 'video', num: 4, time: '23 de jan, 15:20' },
                 { type: 'video', num: 5, time: '23 de jan, 14:12' },
                 { type: 'video', num: 6, time: '23 de jan, 13:45' },
-                { type: 'video', num: 7, time: '23 de jan, 12:33' },
-                { type: 'image', num: 8, time: '23 de jan, 11:22' },
+                { type: 'image', num: 7, time: '23 de jan, 12:33' },
+                { type: 'video', num: 8, time: '23 de jan, 11:22' },
                 { type: 'video', num: 9, time: '23 de jan, 10:15' },
                 { type: 'video', num: 10, time: '23 de jan, 09:48' },
                 { type: 'video', num: 11, time: '23 de jan, 08:30' },
