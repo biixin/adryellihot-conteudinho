@@ -145,8 +145,8 @@ function App() {
                   <span className="text-xs text-gray-300 font-medium">Online há pouco tempo...</span>
                 </div>
 
-                <h1 className="text-3xl font-bold mb-1 text-white">Gi Campos</h1>
-                <span className="text-gray-400">@gicampos1</span>
+                <h1 className="text-3xl font-bold mb-1 text-white">Camila Santos</h1>
+                <span className="text-gray-400">@camii1santos</span>
 
                 <p className="text-gray-200 leading-relaxed max-w-xl text-center mt-2">
                   Oi amor, sou a loirinha mais gostosa e safadinha que você vai conhecer, viu? 😈 Vídeos proíbidos, bem explícitos, sexo real, lives íntimas e muito mais que você só encontra aqui comigo. 💋🔥
@@ -196,8 +196,8 @@ function App() {
                   <header className="flex items-center gap-3">
                     <img src="https://filesjon.zapsafe.work/loira/fotos/perfildoprivacy.png" alt="Avatar" className="w-12 h-12 rounded-full object-cover" />
                     <div>
-                      <strong className="block text-lg text-white">Gi Campos</strong>
-                      <span className="text-gray-400 text-sm">@gicampos1</span>
+                      <strong className="block text-lg text-white">Camila Santos</strong>
+                      <span className="text-gray-400 text-sm">@camii1santos</span>
                     </div>
                     <time className="ml-auto text-gray-400 text-xs">{}</time>
                   </header>
@@ -258,8 +258,8 @@ function App() {
                   <header className="flex items-center gap-3">
                     <img src="https://filesjon.zapsafe.work/loira/fotos/perfildoprivacy.png" alt="Avatar" className="w-12 h-12 rounded-full object-cover" />
                     <div>
-                      <strong className="block text-lg text-white">Gi Campos</strong>
-                      <span className="text-gray-400 text-sm">@gicampos1</span>
+                      <strong className="block text-lg text-white">Camila Santos</strong>
+                      <span className="text-gray-400 text-sm">@camii1santos</span>
                     </div>
                     <time className="ml-auto text-gray-400 text-xs">{post.time}</time>
                   </header>
