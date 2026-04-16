@@ -149,7 +149,7 @@ function App() {
                 <span className="text-gray-400">@camii1santos</span>
 
                 <p className="text-gray-200 leading-relaxed max-w-xl text-center mt-2">
-                  Oi amor, sou a loirinha mais gostosa e safadinha que você vai conhecer, viu? 😈 Vídeos proíbidos, bem explícitos, sexo real, lives íntimas e muito mais que você só encontra aqui comigo. 💋🔥
+                  Oi amor, sou a mais gostosa e safadinha que você vai conhecer, viu? 😈 Vídeos proíbidos, bem explícitos, sexo real, lives íntimas e muito mais que você só encontra aqui comigo. 💋🔥
                 </p>
 
                 <dl className="flex flex-wrap gap-3 p-3 bg-amber-500/10 rounded-2xl mt-4 w-full max-w-xl border border-amber-500/20">
