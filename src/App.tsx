@@ -127,7 +127,7 @@ function App() {
             <section className="rounded-2xl bg-[#2a2a2a]/90 overflow-hidden border border-amber-500/10">
               <div className="h-32 relative">
                 <img
-                  src="https://filesjon.zapsafe.work/loira/fotos/capaprivacy.png"
+                  src="https://i.imgur.com/A1Rm7ev.jpeg"
                   alt="Capa"
                   className="w-full h-full object-cover opacity-85"
                 />
@@ -135,14 +135,14 @@ function App() {
 
               <div className="px-5 pb-7 pt-14 flex flex-col items-center gap-2 relative">
                 <img
-                  src="https://filesjon.zapsafe.work/loira/fotos/perfildoprivacy.png"
+                  src="https://i.imgur.com/QRKh6zA.jpeg"
                   alt="Avatar"
                   className="w-32 h-32 rounded-full border-4 border-[#1a1a1a] object-cover shadow-2xl -mt-20 mb-4"
                 />
 
                 <div className="flex items-center gap-2 mb-1">
                   <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-                  <span className="text-xs text-gray-300 font-medium">Online há pouco tempo...</span>
+                  <span className="text-xs text-gray-300 font-medium">Online agora...</span>
                 </div>
 
                 <h1 className="text-3xl font-bold mb-1 text-white">Camila Santos</h1>
